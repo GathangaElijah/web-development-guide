@@ -11,7 +11,7 @@ Ensure you have access to a laptop and stable internet.
 -  **Spck Editor(android)**
 This will help you follow along as you look for a laptop you can use.
 
-## [INTRODUCTION TO HTML]()
+## [INTRODUCTION TO HTML](https://github.com/GathangaElijah/web-development-guide/blob/main/Introduction%20To%20HTML)
 
 
 
